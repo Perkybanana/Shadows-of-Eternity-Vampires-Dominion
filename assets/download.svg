@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="236" height="44" viewBox="0 0 236 44" role="img" aria-label="Скачать мод v0.1.0">
+  <rect x=".5" y=".5" width="235" height="43" rx="7" fill="#681e2a" stroke="#bc6970"/>
+  <path d="M26 12v14m-6-6 6 6 6-6m-15 8v4h18v-4" fill="none" stroke="#fff3e3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="49" y="28" fill="#fff3e3" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">Скачать мод</text>
+  <path d="M159 10v24" stroke="#b9636e"/>
+  <text x="173" y="27" fill="#ffe3c4" font-family="Consolas,monospace" font-size="14">v0.1.0</text>
+</svg>
