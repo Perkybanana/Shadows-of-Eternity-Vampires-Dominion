@@ -2,17 +2,19 @@
 
 <h1 align="center">Shadows of Eternity: Vampires’ Dominion</h1>
 <p align="center">Лос-Анджелес, 2001 год. Шесть вампирских кланов, Бесклановые, две организации охотников и Общество Оборотней делят власть над городом. Возглавьте одну из восьми игровых фракций.</p>
-<p align="center"><a href="https://github.com/Perkybanana/Shadows-of-Eternity-Vampires-Dominion/releases/download/v0.1.0/Shadows-of-Eternity-Vampires-Dominion-v0.1.0.zip"><img src="assets/download.svg" width="236" height="44" alt="Скачать мод v0.1.0 для Windows"></a></p>
-<p align="center"><strong>Windows</strong> · WAR IN ZONE <strong>0.9.9.0</strong> · Первая публичная тестовая версия</p>
+<p align="center"><a href="https://github.com/Perkybanana/Shadows-of-Eternity-Vampires-Dominion/releases/download/v0.1.1/Shadows-of-Eternity-Vampires-Dominion-v0.1.1.zip"><img src="assets/download.svg" width="236" height="44" alt="Скачать мод v0.1.1 для Windows"></a></p>
+<p align="center"><strong>Windows</strong> · WAR IN ZONE <strong>0.9.9.0</strong> · Публичная тестовая версия</p>
 <p align="center"><a href="#install">Как установить</a> · <a href="#features">Что добавляет мод</a> · <a href="#stories">Сюжет и события</a> · <a href="#city">Районы города</a></p>
 
 <a name="install"></a>
 ## Как установить
 
-1. Скачайте [ZIP с модом v0.1.0](https://github.com/Perkybanana/Shadows-of-Eternity-Vampires-Dominion/releases/download/v0.1.0/Shadows-of-Eternity-Vampires-Dominion-v0.1.0.zip). Полностью распакуйте его в отдельную папку вне игры, например `D:\Mods\Dominion`. После распаковки оставьте около **2 ГБ** свободного места.
+1. Скачайте [ZIP с модом v0.1.1](https://github.com/Perkybanana/Shadows-of-Eternity-Vampires-Dominion/releases/download/v0.1.1/Shadows-of-Eternity-Vampires-Dominion-v0.1.1.zip). Полностью распакуйте его в отдельную папку вне игры, например `D:\Mods\Dominion`. После распаковки оставьте около **2 ГБ** свободного места.
 2. Запустите **`Install-SoEVD.exe`** и выберите **`WAR IN ZONE.exe`** из установленной игры версии **0.9.9.0**. Установщик соберёт рядом отдельную папку `Vampires-Dominion`.
 3. Закройте ранее запущенную WAR IN ZONE. Откройте **`Vampires-Dominion\Play-SoEVD.exe`**. Для следующих запусков используйте этот же файл.
 4. Начните новую игру. В разделе модов выберите **Shadows of Eternity: Vampires’ Dominion — 2001**, затем фракцию.
+
+Если v0.1.0 остановилась с ошибкой о файле сторонней кампании, скачайте [исправление установщика](https://github.com/Perkybanana/Shadows-of-Eternity-Vampires-Dominion/releases/download/v0.1.1/SoEVD-v0.1.0-installer-fix.zip). Переименуйте старый `Install-SoEVD.exe` в `Install-SoEVD-old.exe`, скопируйте новый рядом с `Dominion.pack` и повторите установку.
 
 Сохранения мода находятся в **`Документы\SoEVD-Vampires-Dominion\saves`**. Чтобы удалить мод, закройте игру и удалите папку, в которую распаковали релиз. Профиль с партиями хранится отдельно.
 
@@ -40,4 +42,4 @@
 |:---:|:---:|:---:|
 | ![Вещевые ряды под навесами](assets/flea.png) | ![Спуск к зарешёченной витрине](assets/nonsecret.png) | ![Ночной служебный вход в промышленном квартале](assets/channel.png) |
 
-Условия отдельных событий, долгосрочный баланс и прохождение кампаний ещё проверяются. [Страница релиза](https://github.com/Perkybanana/Shadows-of-Eternity-Vampires-Dominion/releases/tag/v0.1.0) · [Сообщить об ошибке](https://github.com/Perkybanana/Shadows-of-Eternity-Vampires-Dominion/issues)
+Условия отдельных событий, долгосрочный баланс и прохождение кампаний ещё проверяются. [Страница релиза](https://github.com/Perkybanana/Shadows-of-Eternity-Vampires-Dominion/releases/tag/v0.1.1) · [Сообщить об ошибке](https://github.com/Perkybanana/Shadows-of-Eternity-Vampires-Dominion/issues)
